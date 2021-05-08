@@ -15,13 +15,13 @@ hilariojscastro@gmail.com .
 * Visualização dos dados - https://drive.google.com/drive/folders/1k6korMrMqeRkQRh_3asx2qyI8VEUgpi3?usp=sharing
 * Avaliação em algoritmos para localização - https://drive.google.com/drive/folders/1yUITgPPDRj7WqIRdF0h0cTYHJF87L524?usp=sharing
 
-  O projeto de localização indoor (Indoor Location) atualmente está proposto por utilizar uma solução baseada em redes do tipo de alcance livre, utilizando como concepção inicial o uso da técnica Fingerprint, mas existe a previsão de tentar outras abordagens. 
+O projeto de localização indoor (Indoor Location) atualmente está proposto por utilizar uma solução baseada em redes do tipo de alcance livre, utilizando como concepção inicial o uso da técnica Fingerprint, mas existe a previsão de tentar outras abordagens. 
 
-  Os próximos trabalhos que estarei fazendo e atualizando no projeto são:
+Os próximos trabalhos que estarei fazendo e atualizando no projeto são:
 * Prototipação da coleira para coletas reais;
 * Criação da planta do apartamento, em vários formatos de arquivo;
 * Estudar acrescentar uso de uma IMU (possui acelerômetro, giroscópio e magnetômetro) no sistema da coleira e 
 como utilizar os novos dados;
 * Criar aplicativo para smartphone que visualize a posição atual do dado e dados coletados.
 
-  Uma opinião minha é ajudar nos métodos de localização e criação do aplicativo de visualização.
+Uma opinião minha é ajudar nos métodos de localização e criação do aplicativo de visualização.
