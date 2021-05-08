@@ -1,0 +1,8 @@
+
+{  
+    "broker_mqtt" : {"ip": "", "port":1883, "keep_alive": 60},
+
+    "mqtt_topicos_sub" : {"Beacon": "WMC/Beacon", "Reply":"WMC/Reply", "Dataset":"WMC/Dataset"},
+    
+    "mqtt_topicos_pub":{"Request":"WMC/Request"}
+}
